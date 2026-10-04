@@ -122,7 +122,7 @@ Web application for browsing books and managing a shopping cart.
 ## Education
 
 **Universidad Católica de Santa María**  
-B.S. in Systems Engineering — Arequipa, Peru
+B.S. in Systems Engineering - Arequipa, Peru
 
 ---
 
