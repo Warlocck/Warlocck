@@ -122,15 +122,6 @@ Data Warehouse project for an optical store, including staging, data transformat
 ![ETL](https://img.shields.io/badge/ETL-Data_Engineering-6A5ACD?style=flat)
 ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-Dimensional_Modeling-4B5563?style=flat)
 
-### LibroHub
-
-Web application for browsing books and managing a shopping cart.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 ---
 
 ## Education
