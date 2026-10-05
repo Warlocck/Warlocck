@@ -4,7 +4,7 @@
 
 I'm a Systems Engineering student at **Universidad Católica de Santa María (UCSM)**, currently finishing my degree.
 
-I build software solutions and work with databases and data-related technologies. My projects include web applications, backend systems, testing, ETL processes and Data Warehouses.
+I build software solutions and work with databases and data-related technologies. My projects include web applications, backend systems, testing, ETL processes, Data Warehouses and full-stack applications.
 
 ---
 
@@ -29,6 +29,8 @@ I build software solutions and work with databases and data-related technologies
 
 ### Backend
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -47,10 +49,22 @@ I build software solutions and work with databases and data-related technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 ---
 
 ## Selected Projects
+
+### Manufacturing ERP Demo
+
+Full-stack manufacturing and inventory management application with a layered Spring Boot backend, React frontend and PostgreSQL database.
+
+![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### Embers
 
