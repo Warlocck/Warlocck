@@ -87,15 +87,6 @@ Full-stack platform designed to connect farmers with consumers and reduce interm
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-### Sistema de Facturación
-
-Collaborative billing system developed with Flask and PostgreSQL, including authentication, invoice management, stock validation and PDF generation.
-
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-2.3.x-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-4169E1?style=flat&logo=postgresql&logoColor=white)
-![ReportLab](https://img.shields.io/badge/ReportLab-PDF-CC0000?style=flat)
-
 ### Sistema de Ventas
 
 Web-based ticket sales and point-of-sale system with customer, product, inventory and sales management.
